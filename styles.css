@@ -1,0 +1,21 @@
+#preview {
+    display: block;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: -50px;
+}
+#text{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 80px;
+}
+#copy-btn{
+    margin-top: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
